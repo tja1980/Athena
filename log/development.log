@@ -1,0 +1,181 @@
+[Tue Oct 23 06:13:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:13:37 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:13:37 2012] [debug] Controller "Athena::Home" does not exist.
+[Tue Oct 23 06:13:37 2012] [debug] Template "home/index.html.ep" not found.
+[Tue Oct 23 06:13:37 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:13:37 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:13:37 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:13:37 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:13:37 2012] [debug] 404 Not Found (0.035097s, 28.492/s).
+[Tue Oct 23 06:13:44 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:13:44 2012] [debug] Controller "Athena::Home" does not exist.
+[Tue Oct 23 06:13:44 2012] [debug] Template "home/index.html.ep" not found.
+[Tue Oct 23 06:13:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:13:44 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:13:44 2012] [debug] 404 Not Found (0.011213s, 89.182/s).
+[Tue Oct 23 06:18:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:18:40 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:18:40 2012] [debug] Controller "Athena::Home" does not exist.
+[Tue Oct 23 06:18:40 2012] [debug] Template "home/index.html.ep" not found.
+[Tue Oct 23 06:18:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:18:40 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:18:40 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:18:40 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:18:40 2012] [debug] 404 Not Found (0.030740s, 32.531/s).
+[Tue Oct 23 06:18:42 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:18:42 2012] [debug] Controller "Athena::Home" does not exist.
+[Tue Oct 23 06:18:42 2012] [debug] Template "home/index.html.ep" not found.
+[Tue Oct 23 06:18:42 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:18:42 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:18:42 2012] [debug] 404 Not Found (0.012055s, 82.953/s).
+[Tue Oct 23 06:19:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:19:23 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:19:23 2012] [debug] Controller "Athena::Home" does not exist.
+[Tue Oct 23 06:19:23 2012] [debug] Rendering template "home/index.html.ep".
+[Tue Oct 23 06:19:23 2012] [debug] 200 OK (0.012961s, 77.155/s).
+[Tue Oct 23 06:19:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:19:49 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:19:49 2012] [debug] Controller "Athena::Home" does not exist.
+[Tue Oct 23 06:19:49 2012] [debug] Rendering template "home/index.html.ep".
+[Tue Oct 23 06:19:49 2012] [debug] 200 OK (0.009794s, 102.103/s).
+[Tue Oct 23 06:20:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:20:35 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:20:35 2012] [error] Global symbol "$self" requires explicit package name at script/../lib/Athena/Home.pm line 5.
+Compilation failed in require at (eval 476775) line 1.
+
+[Tue Oct 23 06:20:35 2012] [debug] Template "exception.development.html.ep" not found.
+[Tue Oct 23 06:20:35 2012] [debug] Template "exception.html.ep" not found.
+[Tue Oct 23 06:20:35 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:20:35 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:20:35 2012] [debug] 500 Internal Server Error (0.041923s, 23.853/s).
+[Tue Oct 23 06:20:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:20:55 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:20:55 2012] [debug] Class "Athena::Home" is not a controller.
+[Tue Oct 23 06:20:55 2012] [debug] Rendering template "home/index.html.ep".
+[Tue Oct 23 06:20:55 2012] [debug] 200 OK (0.009342s, 107.043/s).
+[Tue Oct 23 06:22:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:22:44 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:22:44 2012] [debug] Class "Athena::Home" is not a controller.
+[Tue Oct 23 06:22:44 2012] [debug] Rendering template "home/index.html.ep".
+[Tue Oct 23 06:22:44 2012] [debug] 200 OK (0.009279s, 107.770/s).
+[Tue Oct 23 06:22:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:22:45 2012] [debug] Class "Athena::Home" is not a controller.
+[Tue Oct 23 06:22:45 2012] [debug] 200 OK (0.001164s, 859.107/s).
+[Tue Oct 23 06:22:47 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:22:47 2012] [debug] Class "Athena::Home" is not a controller.
+[Tue Oct 23 06:22:47 2012] [debug] 200 OK (0.001216s, 822.368/s).
+[Tue Oct 23 06:23:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:23:45 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:23:45 2012] [debug] Controller "Athena::Home" does not exist.
+[Tue Oct 23 06:23:45 2012] [debug] Rendering template "home/index.html.ep".
+[Tue Oct 23 06:23:45 2012] [debug] 200 OK (0.010251s, 97.551/s).
+[Tue Oct 23 06:23:46 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:23:46 2012] [debug] Controller "Athena::Home" does not exist.
+[Tue Oct 23 06:23:46 2012] [debug] 200 OK (0.002692s, 371.471/s).
+[Tue Oct 23 06:24:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:24:43 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:24:43 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:24:43 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:24:43 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:24:43 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:24:43 2012] [debug] 404 Not Found (0.027425s, 36.463/s).
+[Tue Oct 23 06:24:44 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:24:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:24:44 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:24:44 2012] [debug] 404 Not Found (0.009242s, 108.202/s).
+[Tue Oct 23 06:24:44 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:24:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:24:44 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:24:44 2012] [debug] 404 Not Found (0.009477s, 105.519/s).
+[Tue Oct 23 06:25:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:25:13 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:25:13 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:25:13 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:25:13 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:25:13 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:25:13 2012] [debug] 404 Not Found (0.029194s, 34.254/s).
+[Tue Oct 23 06:26:50 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:26:50 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:26:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:26:50 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:26:50 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:26:50 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:26:50 2012] [debug] 404 Not Found (0.028991s, 34.493/s).
+[Tue Oct 23 06:26:53 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:26:53 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:26:53 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:26:53 2012] [debug] 404 Not Found (0.009293s, 107.608/s).
+[Tue Oct 23 06:27:16 2012] [info] Listening at "http://*:3000".
+[Tue Oct 23 06:27:21 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:27:21 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:27:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:27:21 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:27:21 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:27:21 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:27:21 2012] [debug] 404 Not Found (0.028060s, 35.638/s).
+[Tue Oct 23 06:31:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:31:07 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:31:07 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:31:07 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:31:07 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:31:07 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:31:07 2012] [debug] 404 Not Found (0.029521s, 33.874/s).
+[Tue Oct 23 06:33:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:33:44 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:33:44 2012] [debug] Routing to a callback.
+[Tue Oct 23 06:33:44 2012] [debug] Rendering template "home/index.html.ep".
+[Tue Oct 23 06:33:44 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Oct 23 06:33:44 2012] [debug] 200 OK (0.016525s, 60.514/s).
+[Tue Oct 23 06:33:44 2012] [debug] GET /assets/css/bootstrap-responsive.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:33:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:33:44 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:33:44 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:33:44 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:33:44 2012] [debug] 404 Not Found (0.024084s, 41.521/s).
+[Tue Oct 23 06:33:44 2012] [debug] GET /assets/js/google-code-prettify/prettify.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:33:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:33:44 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:33:44 2012] [debug] 404 Not Found (0.008361s, 119.603/s).
+[Tue Oct 23 06:33:44 2012] [debug] GET /assets/css/site.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:33:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:33:44 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:33:44 2012] [debug] 404 Not Found (0.008717s, 114.718/s).
+[Tue Oct 23 06:33:44 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:33:44 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:33:44 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:33:44 2012] [debug] 404 Not Found (0.008404s, 118.991/s).
+[Tue Oct 23 06:36:01 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:36:01 2012] [debug] Routing to a callback.
+[Tue Oct 23 06:36:01 2012] [debug] 200 OK (0.001845s, 542.005/s).
+[Tue Oct 23 06:36:01 2012] [debug] GET /assets/css/bootstrap-responsive.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:36:01 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:36:01 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:36:01 2012] [debug] 404 Not Found (0.008947s, 111.769/s).
+[Tue Oct 23 06:36:01 2012] [debug] GET /assets/js/google-code-prettify/prettify.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:36:01 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:36:01 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:36:01 2012] [debug] 404 Not Found (0.008771s, 114.012/s).
+[Tue Oct 23 06:36:01 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:36:01 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:36:01 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:36:01 2012] [debug] 404 Not Found (0.009190s, 108.814/s).
+[Tue Oct 23 06:37:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Oct 23 06:37:43 2012] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:37:43 2012] [debug] Routing to a callback.
+[Tue Oct 23 06:37:43 2012] [debug] Rendering template "home/index.html.ep".
+[Tue Oct 23 06:37:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Oct 23 06:37:43 2012] [debug] 200 OK (0.017221s, 58.069/s).
+[Tue Oct 23 06:37:43 2012] [debug] GET /assets/css/bootstrap-responsive.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:37:43 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:37:43 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:37:43 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:37:43 2012] [debug] Rendering inline template.
+[Tue Oct 23 06:37:43 2012] [debug] 404 Not Found (0.023373s, 42.784/s).
+[Tue Oct 23 06:37:43 2012] [debug] GET /assets/js/google-code-prettify/prettify.css (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:37:43 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:37:43 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:37:43 2012] [debug] 404 Not Found (0.008830s, 113.250/s).
+[Tue Oct 23 06:37:43 2012] [debug] GET /assets/ico/favicon.ico (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Tue Oct 23 06:37:43 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Oct 23 06:37:43 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Oct 23 06:37:43 2012] [debug] 404 Not Found (0.009178s, 108.956/s).

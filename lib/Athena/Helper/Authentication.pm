@@ -13,7 +13,5 @@ sub register {
             # username, password
         });
     
-    $app->helper(
-        
-    )
+    
 }

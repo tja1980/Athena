@@ -11,13 +11,14 @@ sub startup {
   my $r = $self->routes;
 
   # Normal route to controller
-  $r->get('/')->to('home#index');
-  
-  $r->get('/repository/fields'=> sub {
+  $r->get('/' => sub {
     my $self = shift;
-		
-	$self->render ( template	=> 'manage\respository', layout	=> 'default' );
+    
+    $self->render ( template	=> 'home/index',
+                    layout	    => 'default' );
   });
+  
+  
 }
 
 1;
