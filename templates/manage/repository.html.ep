@@ -1,0 +1,57 @@
+<script type="text/javascript" charset="utf-8">
+		
+</script>
+
+
+<!-- Search - Modal
+================================================== -->
+<div class="modal hide" id="modal">
+	<form id="edit" name="edit" method="post" action="/search/edit">
+		<div class="modal-header">
+			<a class="close" id="close" data-dismiss="modal">&times;</a>
+			<h3>Edit Record</h3>
+		</div>
+		<div class="modal-body">
+			<p>You can modify and delete this data, changes will only take affect when you click <strong>Save changes</strong>.</p>
+				<label for="exam-code">Exam Code</label>
+				<input type="text" name="exam-code" id="exam-code" value=""/>
+				<label for="bundle-code">Bundle Code</label>
+				<input type="text" name="bundle-code" id="bundle-code" value=""/>
+				<label for="student-number">Student Number</label>
+				<input type="text" name="student-number" id="student-number" value=""/>
+				<label for="additional-booklets">Additional Booklets</label>
+				<input type="text" name="additional-booklets" id="additional-booklets" value=""/>
+				<label for="batch-number">Batch Number</label>
+				<input type="text" name="batch-number" id="batch-number" value=""/>
+				<input type="hidden" name="id" id="id" value=""/>
+		</div>
+		<div class="modal-footer">
+			<a href="#" class="btn" id="close">Close</a>
+			<button class="btn btn-primary" id="save" type="submit">Save</button>
+		</div>
+	</form>
+</div>
+
+<!-- Respository
+================================================== -->
+<div class="respository">
+	<section id="create">
+		<div class="page-header">
+				<h1>Repository</h1>
+		</div>
+		
+		<p class="lead">Create a repository</p>
+		
+		<div class="row-fluid">
+				<div class="">
+					<h3>Field Definition</h3>
+					<p></p>
+					<div class="input-append">
+						<form>
+								<input type="text"/><a href="#" class="btn icon-plus-sign"></a>			
+						</form>
+					</div>
+				</div>
+		</div>
+	</section>
+</div>
